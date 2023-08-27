@@ -1,0 +1,12 @@
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\DatatAccess.Ef.csproj.AssemblyReference.cache
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\DatatAccess.Ef.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\DatatAccess.Ef.AssemblyInfoInputs.cache
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\DatatAccess.Ef.AssemblyInfo.cs
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\DatatAccess.Ef.csproj.CoreCompileInputs.cache
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\bin\Debug\net7.0\DatatAccess.Ef.deps.json
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\bin\Debug\net7.0\DatatAccess.Ef.dll
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\bin\Debug\net7.0\DatatAccess.Ef.pdb
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\DatatAccess.Ef.dll
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\refint\DatatAccess.Ef.dll
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\DatatAccess.Ef.pdb
+F:\Repository-pattern\RepositoryPattern\DatatAccess.Ef\obj\Debug\net7.0\ref\DatatAccess.Ef.dll
