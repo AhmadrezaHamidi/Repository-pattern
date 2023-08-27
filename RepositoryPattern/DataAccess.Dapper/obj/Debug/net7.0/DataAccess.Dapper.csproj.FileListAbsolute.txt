@@ -1,0 +1,15 @@
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\DataAccess.Dapper.csproj.AssemblyReference.cache
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\DataAccess.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\DataAccess.Dapper.AssemblyInfoInputs.cache
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\DataAccess.Dapper.AssemblyInfo.cs
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\DataAccess.Dapper.csproj.CoreCompileInputs.cache
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\bin\Debug\net7.0\DataAccess.Dapper.deps.json
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\bin\Debug\net7.0\DataAccess.Dapper.dll
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\bin\Debug\net7.0\DataAccess.Dapper.pdb
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\bin\Debug\net7.0\Core.dll
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\bin\Debug\net7.0\Core.pdb
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\DataAccess.Dapper.csproj.CopyComplete
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\DataAccess.Dapper.dll
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\refint\DataAccess.Dapper.dll
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\DataAccess.Dapper.pdb
+F:\Repository-pattern\RepositoryPattern\DataAccess.Dapper\obj\Debug\net7.0\ref\DataAccess.Dapper.dll
